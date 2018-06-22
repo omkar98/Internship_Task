@@ -1,0 +1,8 @@
+1) Downloaded Bootstrap UI Kit 
+	1.1) https://demos.creative-tim.com/now-ui-kit/documentation/tutorial-components.html#tutorial
+2) Downloaded simple template of UI Kit
+	2.1) Template Reference: https://demos.creative-tim.com/now-ui-kit/documentation/template.html
+3) Organized Code
+	3.1) Created header.php
+	3.1) Created footer.php
+	3.1) Created navigation.php
